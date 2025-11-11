@@ -1,0 +1,3 @@
+git add .
+git commit -m "Initial FastAPI backend for Hill Country Land Intelligence"
+git push
