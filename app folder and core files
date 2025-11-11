@@ -1,0 +1,7 @@
+# Create app folder and core files
+mkdir -p app
+touch app/main.py
+touch app/db.py
+touch requirements.txt
+touch Dockerfile
+touch .env.example
